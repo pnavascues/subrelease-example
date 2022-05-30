@@ -1,0 +1,4 @@
+
+application 'TestApp', {
+  projectName = 'pnavascues'
+}
