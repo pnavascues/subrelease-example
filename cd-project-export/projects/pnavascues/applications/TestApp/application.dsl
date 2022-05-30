@@ -1,4 +1,0 @@
-
-application 'TestApp', {
-  projectName = 'pnavascues'
-}
